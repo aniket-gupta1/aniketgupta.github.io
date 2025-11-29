@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Aniket Gupta # the website title (if blank, full name will be used instead)
+title: Aniket Gupta  # the website title (if blank, full name will be used instead)
 first_name: Aniket
 middle_name:
 last_name: Gupta
@@ -173,8 +173,8 @@ include: ["_pages", "_scripts"]
 exclude:
   - _pages/blog.md
   - _posts/
-  - _pages/projects.md
-  - _projects/
+  - _pages/profiles.md
+  - _people/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
