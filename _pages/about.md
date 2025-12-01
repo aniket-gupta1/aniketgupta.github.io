@@ -24,9 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern University supervised by Prof. [Huaizu Jiang](https://jianghz.me/) and Prof. [Hanumant Singh](https://coe.northeastern.edu/people/singh-hanumant/). My research is focused on efficient 3D/4D reconstruction, learning from point clouds and sensor fusion. 
+I am currently a Ph.D. candidate at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/) supervised by [Prof. Huaizu Jiang](https://jianghz.me/) and [Prof. Hanumant Singh](https://coe.northeastern.edu/people/singh-hanumant/). 
+<!-- My research is focused on efficient 3D/4D reconstruction, learning from point clouds and sensor fusion.  -->
 
 I received my Master's degree in Robotics in 2023 from [Northeastern University](https://www.northeastern.edu/) (NEU) and Bachelor's degree in Electrical Engineering in 2021 from [Delhi Technological University](https://dtu.ac.in/) (DTU).
+
+My research interests lie in the following areas:
+* Efficient 3D/4D Reconstruction and Mapping.
+* Deep Learning on Point Clouds (e.g., segmentation, classification)
+* Multi-Sensor Fusion (Lidar, Cameras, GPS/IMU)
+* Autonomous Navigation and SLAM
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
