@@ -71,7 +71,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-are-starting-our-field-campaign-in-svalbard-today-to-study-and-quantify-glacier-melts-checkout-the-project-here-checkout",
+            },},{id: "news-we-are-starting-our-field-campaign-in-svalbard-today-to-study-and-quantify-glacier-melts-checkout-the-project-here",
           title: 'We are starting our Field Campaign in Svalbard today to study and quantify...',
           description: "",
           section: "News",},{id: "news-i-am-attending-the-elite-summer-school-in-robotics-and-entrepreneurship-in-denmark-for-3-weeks",
