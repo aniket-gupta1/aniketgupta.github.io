@@ -71,11 +71,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-attending-the-elite-robotics-summer-school-in-denmark-for-3-weeks",
-          title: 'I am attending the Elite Robotics Summer School in Denmark for 3 weeks....',
+            },},{id: "news-we-are-starting-our-field-campaign-in-svalbard-today-to-study-and-quantify-glacier-melts-checkout-the-project-here-checkout",
+          title: 'We are starting our Field Campaign in Svalbard today to study and quantify...',
           description: "",
-          section: "News",},{id: "news-we-are-starting-our-expedition-in-svalbard-today-to-study-and-quantify-glacier-melts",
-          title: 'We are starting our expedition in Svalbard today to study and quantify glacier...',
+          section: "News",},{id: "news-i-am-attending-the-elite-summer-school-in-robotics-and-entrepreneurship-in-denmark-for-3-weeks",
+          title: 'I am attending the Elite Summer School in Robotics and Entrepreneurship in Denmark...',
           description: "",
           section: "News",},{id: "news-tada-our-poster-presentation-on-detecting-change-on-marine-terminating-glaciers-on-short-time-scales-a-uav-based-field-campaign-in-svalbard-won-the-best-poster-award-at-icra-2025-workshop-on-robotics-for-environmental-and-climate-assessment",
           title: ':tada: Our poster presentation on Detecting Change on Marine Terminating Glaciers on Short...',
@@ -96,17 +96,17 @@ ninja.data = [{
           title: 'IAF Mehar Baba Prize Competition',
           description: "Swarm drones for long-range, BVLOS search and rescue missions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/IAF_Mehar_Baba/";
             },},{id: "projects-neuroam",
           title: 'NeuROAM',
           description: "A large scale, multi-robot dataset to push the limits of current mapping systems.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/NeuROAM/";
             },},{id: "projects-svalbard-expedition",
           title: 'Svalbard Expedition',
           description: "An expedition to the Arctic to understand and quantify glacier melt with modern computer vision.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/Svalbard_expedition/";
             },},{
         id: 'social-email',
         title: 'email',
